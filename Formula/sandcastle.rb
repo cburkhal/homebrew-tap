@@ -1,8 +1,8 @@
 class Sandcastle < Formula
   desc "One OpenCode instance per Git repo, each in its own Apple container VM"
   homepage "https://github.com/cburkhal/sandcastle"
-  url "https://github.com/cburkhal/sandcastle/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "a1a85633a0d76817fbb7b2c0565a2ca4ea5327ace3aef867acab5219d69af87c"
+  url "https://github.com/cburkhal/sandcastle/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "89e82cc370474b939ea732c7a631a4bf1384edf34238123950d5e326194e363b"
   license "MIT"
   head "https://github.com/cburkhal/sandcastle.git", branch: "main"
 

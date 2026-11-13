@@ -1,6 +1,6 @@
 cask "sandcastle" do
-  version "0.2.1"
-  sha256 "9a99b34a6e97a21c8cb95d9c7b07d98268a649841d97babb238dd1e6c75b6cf2"
+  version "0.3.1"
+  sha256 "abe5c3b68c028e63f7b1e292c3be522bd5313aad9a9539e4db0f4d533ac8212e"
 
   url "https://github.com/cburkhal/sandcastle/releases/download/v#{version}/sandcastle_#{version}_aarch64.dmg"
   name "sandcastle"
